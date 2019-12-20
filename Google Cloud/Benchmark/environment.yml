@@ -1,0 +1,13 @@
+name: benchmark
+channels:
+  - pytorch
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - tensorflow-gpu==1.15
+  - pytorch
+  - torchvision
+  - protobuf
+  - tabulate
+  - future

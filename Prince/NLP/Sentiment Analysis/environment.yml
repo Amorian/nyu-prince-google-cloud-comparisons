@@ -1,0 +1,11 @@
+name: sentiment-analysis
+channels:
+  - conda-forge
+  - pytorch
+  - anaconda
+  - defaults
+dependencies:
+  - python
+  - torchtext
+  - spacy
+  - transformers

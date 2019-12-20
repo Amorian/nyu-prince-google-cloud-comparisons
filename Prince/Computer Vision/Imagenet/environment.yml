@@ -1,0 +1,9 @@
+name: imagenet
+channels:
+  - pytorch
+  - anaconda
+  - defaults
+dependencies:
+  - python
+  - pytorch
+  - torchvision

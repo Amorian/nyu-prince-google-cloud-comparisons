@@ -1,0 +1,10 @@
+name: gan_mnist
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - numpy
+  - keras
+  - tensorflow-gpu
+  - matplotlib

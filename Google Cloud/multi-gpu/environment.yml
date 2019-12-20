@@ -1,0 +1,10 @@
+name: multi-gpu
+channels:
+  - pytorch
+  - anaconda
+  - defaults
+dependencies:
+  - python
+  - pytorch
+  - torchvision
+  - intel-openmp=2019.4

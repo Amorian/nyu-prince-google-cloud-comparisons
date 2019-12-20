@@ -1,0 +1,11 @@
+name: glove
+channels:
+  - pytorch
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - numpy
+  - pytorch
+  - scikit-learn
+  - tqdm
